@@ -1,43 +1,55 @@
-* NETWORKING:-sharing of software and files,info,idea or orders between humans that to related humans is called networking.
-      TYPES OF NETWORK:- 
-     1] geographical:-
-       **A] PAN(personal area network)** -a network for individual personal use for limited range.
-       **B] LAN(Local area network)** - small area or the range where the info is being shared(related) ex:school,office.
-       **C]MAN(metropolitian area network)** - metropoitian area network connects multipe lan providing high spped connectivity for efficient data-
+                                               NETWORK  & INTERNET 
+
+* NETWORK:-sharing of software and files,info,idea or orders between humans that to related humans is called networking.
+       TYPES OF NETWORK:- 
+       1] geographical:-
+         **A] PAN(personal area network)** -a network for individual personal use for limited range.
+         **B] LAN(Local area network)** - small area or the range where the info is being shared(related) ex:school,office.
+         **C]MAN(metropolitian area network)** - metropoitian area network connects multipe lan providing high spped connectivity for efficient data-
                                                tranfer and resource sharing. larger thanLAN but smaller than WAN.
                                                EX:company,large collage campus,organization.
         **D] WAN(wide area network)** - large geographical area country or even worldwide ex:internet or W.W.W  . 
-       **E] WLAN(wireless local area network) it's a type  of LAN.
-    2] By purpose:-  
-      **A]VPN(virtual private network)** - A SERVICE THAT encrypts internet traffic and routes it throgh a remote sever masking users IP Address
-     **B] SAN(storage area network)** - a high-speed network that provides shared access to block-level data storage devices like disk arrayas to 
+        **E] WLAN(wireless local area network) it's a type  of LAN.
+     2] By purpose:-  
+       **A]VPN(virtual private network)** - A SERVICE THAT encrypts internet traffic and routes it throgh a remote sever masking users IP Address
+       **B] SAN(storage area network)** - a high-speed network that provides shared access to block-level data storage devices like disk arrayas to 
                                         multipe servers.
 
 
 *INTERNET:- collection of many small or big network is called internet.
-  ISP INTERNET SERVICE PROVIDER jio,airtel,VI
-    **IP Address (internet protocol address)** :-To communicate with other computer need an address just like real world works. 
-      EX:- 17.172.224.47   17(country).172(state).224(city).47(device/user) 22bits = 4 bytes
-           two types of IP :- 1) IPv4 :- version 4
-                                 add size:- 32-bits number
-                                 formate:- dotted decimal notion(0-255 range)
-                                 number of addresses:-(2^32)4.7 billon
+    ISP( INTERNET SERVICE PROVIDER)like jio,airtel,VI
+      **IP Address (internet protocol address)** :-To communicate with other computer need an address just like real world works. 
+                                                   EX:- 17.172.224.47  
+      UNDERSTAND:-17(country).172(state).224(city).47(device/user) 22bits = 4 bytes
+             two types of IP :- 1) IPv4 :- version 4
+                                   add size:- 32-bits number
+                                   formate:- dotted decimal notion(0-255 range)
+                                   number of addresses:-(2^32)4.7 billon
                               2) IPv6 :-  verstion 6  
-                                add size 128-bits number
-                                formate:- hexadecimal notation(0-9 ,A-E)
-                                 number of address(2^128) 340 trillon
-   Types of IP Addresses :-  1) public 2) private 3)static 4) dynamic
-        ** 1)public**:-you can directly connect to worldwide any person and get in network.
-                     To defined one WAN is propere type of  network  to be said to use  public IP Address.
-       ** 2)private**:-when user and its connected LAN devices can connect throgh it and talk to eachother.
-                      LAN uses private IP Addresses.
-      ** 3)dynamic**:-this type of IP Adds are changeable.In scenario of public IP Adds when user isn't using the internet the same IP get provided
-                      to other users in internet.
-     **4)static**:- Unlike dynamic these are static and fixed non-changeable. even if user isn't using internet at a time the IP will still be 
-                    asigned to same user.
-  [NOTE]:- In both private and public static and dynamic are available the only diffrence is of range and network-range.
-           private & public both can't communicate directly.
-           
+                                  add size 128-bits number
+                                  formate:- hexadecimal notation(0-9 ,A-F)
+                                  number of address(2^128) 340 trillon
+        Types of IP Addresses :-  1) public 2) private 3)static 4) dynamic
+              ** 1)public**:-you can directly connect to worldwide any person and get in network.
+                             To defined one WAN is propere type of  network  to be said to use  public IP Address.
+              ** 2)private**:-when user and its connected LAN devices can connect throgh it and talk to eachother.
+                             LAN uses private IP Addresses.
+              ** 3)dynamic**:-this type of IP Adds are changeable.In scenario of public IP Adds when user isn't using the internet-
+                              the same IP get provided to other users in internet.
+              **4)static**:- Unlike dynamic these are static and fixed non-changeable. even if user isn't using internet at a time -
+                             the IP will still be asigned to same user.
+      [NOTE]:- In both private and public static and dynamic are available the only diffrence is of range and network-range.
+               private & public both can't communicate directly.
+
+            MAC Address(media access control address):- all those devices which are used in network and for communicate(digitally) are asigned 
+                                            an address which is MAC address. ex:-0A:22:84:D5:65:V4(TOTAL 6 pairs)
+                                             formate:-hexa-decimal(0-255)(A-F)
+
+      UNDERSTAND:-this 6 pairs devices into group of 2 each with 3 pair first group(0A:22:84:) gives info and understaning 
+               of organization or manufacturer.
+               2nd group(D5:65:V4)gives info about divice like device ID.
+                     
+            
 
                               
 ))
