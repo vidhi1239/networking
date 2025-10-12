@@ -1,0 +1,8 @@
+                                             THM FLAGES CHELLENGES
+COURSE:-PRE-SECURITY
+  topic:- IP & MAC ADDRESS
+    Q-1 Deploy the interactive lab using the "View Site" button and spoof your MAC address to access the site.  What is the flag?
+              FLAGE:-THM{YOU_GOT_ON_TRYHACKME}
+  topic:-ping(ICMP-INTERNET CONTROL MSG PROTOCOL) 
+    Q-2 What flag do you get when you ping 8.8.8.8?
+           FLAGE:-THM{I_PINGED_THE_SERVER}
