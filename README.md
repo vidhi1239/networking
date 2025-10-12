@@ -11,9 +11,9 @@ This repo is my public learning notebook for cybersecurity from very basic to as
 <h3>Purpose</h3>: show progress and keep myself accountable.
 
 <h3>resources:-</h3><br>
-**youtube** <br>
- **try hack me**.<br>
+youtube <br>
+ try hack me.<br>
    https://tryhackme.com
-  **fortinet net acad.course**
+  fortinet net acad.course
    https://training.fortinet.com
 
