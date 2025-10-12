@@ -11,6 +11,11 @@ This repo is my public learning notebook for cybersecurity networking and comput
 Purpose: show progress and keep myself accountable.
 
 <h6>resources:-</h6><br>
+youtube <br>
+
  try hack me.<br>
- youtube <br>
+   https://tryhackme.com
+ 
  fortinet net acad.course
+   https://training.fortinet.com
+
