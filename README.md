@@ -13,7 +13,7 @@ This repo is my public learning notebook for cybersecurity from very basic to as
 <h3>resources:-</h3>
 youtube
 <br>
- try hack me. 
+ tryhackme. 
    https://tryhackme.com
    <br>
   fortinet net acad.course
