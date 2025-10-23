@@ -1,6 +1,6 @@
 # NETWORKING
 networking notes
-THM notes and flags <br>
+<br>
 author:-vidhi B <br>
 
 **starting date**:-2025/10/9
