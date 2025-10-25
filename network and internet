@@ -37,7 +37,11 @@
                 3)dynamic:-this type of IP Adds are changeable.In scenario of public IP Adds when user isn't using the internet-
                               the same IP get provided to other users in internet.
                 4)static:- Unlike dynamic these are static and fixed non-changeable. even if user isn't using internet at a time -
-                             the IP will still be asigned to same user.
+                             the IP will still be asigned to same user
+                          Range of private IP is 10.0.0.0 - 10.255.255.255
+                                                 172.16.0.0 - 172.31.255.255
+                                                192.168.0.0 - 192.168.255.255
+
       [NOTE]:- In both private and public static and dynamic are available the only diffrence is of range and network-range.
                private & public both can't communicate directly.
 
@@ -51,7 +55,9 @@
 
 *PORTS:-In networking ports is number that determines specific process or sevice running on computer device. ports can be considered door for specific
          room the service which we want to vist.
-                     
+        - In network to communicate we have 1-65535 so far. 
+                process :- path ---> communication ---> only 1 open port ---> 1-65535 ---> one port at a time
+
             
 
                               
