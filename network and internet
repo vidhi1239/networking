@@ -55,8 +55,23 @@
 
 *PORTS:-In networking ports is number that determines specific process or sevice running on computer device. ports can be considered door for specific
          room the service which we want to vist.
-        - In network to communicate we have 1-65535 so far. 
+        - In network to communicate we have 1-65535 so far.
+            TYPES OF PORTS:-
+              [well-known ports(0-1023)]:-these are most commonly used one and are reserved for common,standardized servies and applications.are 
+                                          fundamental to internet functionality,are strictly controlled.
+                                    port 80:-used by HTTP for standerd,unencrypted web traffic.
+                                    port 443:- used by HTTPS for secure,encrypted web traffic.
+                                    port 21:- used by file transfer FTP
+                                    port 25:- used  by SMTP for sending emails.
+                                    port 53:- used by DNS to translate domain names into IP Addresses.
+
+             [Registered ports(1024-49151)]:- these are assigned for specific applications and services from 3rd-party vendors such as microsoft sql
+                                             server.
+             [Dynamic(private)ports(49152-65535)]:-used for temporary connections by client applications or private connections.
+                                          
+
                 process :- path ---> communication ---> only 1 open port ---> 1-65535 ---> one port at a time
+              
 
             
 
