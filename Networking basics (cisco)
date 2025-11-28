@@ -1,2 +1,22 @@
-       ISP
-all computers connected to network that participate directly in network communication are classified as hosts. hosts can send and receive msg on the network
+NETWORK
+ network can be from 2 computers to 1000 computers in an area, network installd in small home or office are called SOHO(Small Office/Home Office) let you sheare printer
+documents,pictures,music in that small area network. business and soho provides shared connection of internet.
+ local networks are:- small home network,SOHO,medium to large network,wide area network 
+ even though soho let you access remotely but size difference refers to number of user(1-10),devices,covered physical area.
+
+DIFFERENT TYPES OF DATA:
+(1) volunteer data :- you know such data is being stored about you
+(2) infered data:-is analysis or conclusion drawn from that observed data cradit card socre.
+(3) observed data :-is data directly captured or measured like networkdevice status,user location.
+
+THE BIT
+Computers use binary codes to represent and interpret letters, numbers and special characters with bits.
+A commonly used code is the American Standard Code for Information Interchange (ASCII). With ASCII, each character is represented by eight bits. 
+ cuz the human readable lang must be converted into bits for computer CPU to understand.
+
+ISP
+all computers connected to network that participate directly in network communication are classified as hosts. hosts can send and receive msg on the network.
+>cable and dsl this both are most common method of network connection
+cable:-mostly provided by televison service provider internet signels are provide on same coaixel cable internet runs from this cables separates internet digital signal
+      from other signal carried on cable and provides connectivity throgh ethernet wires. 
+DSL:-
