@@ -14,8 +14,11 @@ This repo is my public learning notebook for cybersecurity from very basic to as
 youtube
 <br>
  tryhackme. 
-   https://tryhackme.com
+     https://tryhackme.com
    <br>
-  fortinet net acad.course
-   https://training.fortinet.com
+ fortinet net acad.course
+    https://training.fortinet.com
+   <br>
+ cisco networking acd.
+    https://www.netacad.com/
 
