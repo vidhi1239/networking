@@ -1,8 +1,8 @@
 NETWORK
- network can be from 2 computers to 1000 computers in an area, network installd in small home or office are called SOHO(Small Office/Home Office) let you sheare printer
-   documents,pictures,music in that small area network. business and soho provides shared connection of internet.
- local networks are:- small home network,SOHO,medium to large network,wide area network 
-  even though soho let you access remotely but size difference refers to number of user(1-10),devices,covered physical area.
+ network can be from 2 computers to 1000 computers in an area, network installd in small home or office are called SOHO(Small Office/Home Office) 
+  let you sheare printer documents,pictures,music in that small area network. business and soho provides shared connection of internet.
+  local networks are:- small home network,SOHO,medium to large network,wide area network 
+   even though soho let you access remotely but size difference refers to number of user(1-10),devices,covered physical area.
 
 DIFFERENT TYPES OF DATA:
   (1) volunteer data :- you know such data is being stored about you
@@ -11,8 +11,8 @@ DIFFERENT TYPES OF DATA:
 
 THE BIT
   Computers use binary codes to represent and interpret letters, numbers and special characters with bits.
-  A commonly used code is the American Standard Code for Information Interchange (ASCII). With ASCII, each character is represented by eight bits. 
-  cuz the human readable lang. must be converted into bits for computer CPU to understand.
+  A commonly used code is the American Standard Code for Information Interchange (ASCII). With ASCII, 
+each character is represented by eight bits. cuz the human readable lang. must be converted into bits for computer CPU to understand.
 
 COMMON METHOD OF DATA TRANSMISSION 
    after data i s connverted into bits it needs to be converted into signals that can be sent across the network media to its destination.
@@ -26,7 +26,8 @@ THREE COMMON TRANSMITSSION METHODS:-
    Wireless signals  Transmission is achieved by using infrared, microwave, or radio waves through the air.
 
 BANDWIDTH & THROUGHPUT
-bandwidth is a capacity of medium that how much data can transfer,digital bandwidth is amount of data that can flow from one place to another in given amount of time,typically measured in numbers of bits flows in 
+bandwidth is a capacity of medium that how much data can transfer,digital bandwidth is amount of data that can flow from one place to another
+in given amount of time,typically measured in numbers of bits flows in .
 seconds common measurement:- thousands of bits per sec(kbps)
                              millions of bits per sec(mbps)
                              billions of bits per sec(gbps)
@@ -37,7 +38,8 @@ Throughput Like bandwidth, throughput is the measure of the transfer of bits acr
     - the type of data being transmitted.
     -The latency created by the number of network devices encountered between source and destination.
 
- even if most segments have high bandwidth,only one law-bandwidth segment is enough to slow down the entire network,so actuall speed you are getting is reveal by spped tests which is throughput.
+ even if most segments have high bandwidth,only one law-bandwidth segment is enough to slow down the entire network,
+ so actuall speed you are getting is reveal by spped tests which is throughput.
 
 CLIENT AND SERVERS 
 severs has software installed which enable them to provide information to other hosts web server software and email client.
