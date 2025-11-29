@@ -11,7 +11,7 @@ This repo is my public learning notebook for cybersecurity from very basic to as
 <h3>Purpose</h3>: show progress and keep myself accountable.
 
 <h3>resources:-</h3>
-youtube (professor messer,wscube cybersecurity,gate smashers)
+youtube (professor messer,wscube cybersecurity,gate smashers) 
 <br>
  tryhackme. 
      https://tryhackme.com
