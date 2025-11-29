@@ -12,7 +12,7 @@ DIFFERENT TYPES OF DATA:
 THE BIT
   Computers use binary codes to represent and interpret letters, numbers and special characters with bits.
   A commonly used code is the American Standard Code for Information Interchange (ASCII). With ASCII, each character is represented by eight bits. 
-  cuz the human readable lang must be converted into bits for computer CPU to understand.
+  cuz the human readable lang. must be converted into bits for computer CPU to understand.
 
 COMMON METHOD OF DATA TRANSMISSION 
    after data i s connverted into bits it needs to be converted into signals that can be sent across the network media to its destination.
@@ -23,15 +23,64 @@ COMMON METHOD OF DATA TRANSMISSION
 THREE COMMON TRANSMITSSION METHODS:-
    Electrical signals - Transmission is achieved by representing data as electrical pulses on copper wire.
    Optical signals - Transmission is achieved by converting the electrical signals into light pulses.
-   Wireless signals - Transmission is achieved by using infrared, microwave, or radio waves through the air.
+   Wireless signals  Transmission is achieved by using infrared, microwave, or radio waves through the air.
 
-Bendwidth & throghuput 
-bandwidth is a capacity of medium that how much data
+BANDWIDTH & THROUGHPUT
+bandwidth is a capacity of medium that how much data can transfer,digital bandwidth is amount of data that can flow from one place to another in given amount of time,typically measured in numbers of bits flows in 
+seconds common measurement:- thousands of bits per sec(kbps)
+                             millions of bits per sec(mbps)
+                             billions of bits per sec(gbps)
 
+Throughput Like bandwidth, throughput is the measure of the transfer of bits across the media over a given period of time.
+   factors that effect throughput include:-
+    - how much data is actually beiing transmitted.
+    - the type of data being transmitted.
+    -The latency created by the number of network devices encountered between source and destination.
+
+ even if most segments have high bandwidth,only one law-bandwidth segment is enough to slow down the entire network,so actuall speed you are getting is reveal by spped tests which is throughput.
+
+CLIENT AND SERVERS 
+severs has software installed which enable them to provide information to other hosts web server software and email client.
+client has software installed which helps and display info obtained from a server like web browser,email client.
+
+      
+    [ Browser ]  <-- HTTP -->  [ Web Server ]
+                                      |
+                                      | (SMTP)
+                                      v
+                              [ Email Server ]
+
+                                      |
+                                      | (File API / File I/O)
+                                      v
+                             [ File Storage System ]
+
+PEER-TO-PEER NETWORK :- usually client and server runs on different computers but when both are in the same it is called as peer-to-peer network.
+
+    Advantages:-
+         - Easy to set up
+         - Less complex
+         - Lower cost because network devices and dedicated servers may not be required
+         - Can be used for simple tasks such as transferring files and sharing printers
+
+    Disadvantages of peer-to-peer networking:-
+           - No centralized administration
+           - Not as secure
+           - Not scalable
+           -All devices may act as both clients and servers which can slow their performance
+
+    -Hybrid P2P systems use a central server ONLY to store an index of resources.
+    -Peers search the server for who has the file, but the file transfer itself happens directly between peers.
+
+NETWORK INFRASTRUCTURE
+     Endpoint device :-A device used by the user and where data starts or ends.
+     Intermediate device :-A device that sits in between endpoints and moves data from one place to another.ex:-router,hub,switch etc.
+     Network media:-The physical or wireless path through which data travels.ex:-bluetooth,cellular etc.
 
 ISP
-all computers connected to network that participate directly in network communication are classified as hosts. hosts can send and receive msg on the network.
+ network that participate directly in network communication are classified as hosts. hosts can send and receive msg on the network.
 >cable and dsl this both are most common method of network connection
 cable:-mostly provided by televison service provider internet signels are provide on same coaixel cable internet runs from this cables separates internet digital signal
       from other signal carried on cable and provides connectivity throgh ethernet wires. 
-DSL:-
+DSL:-Digital Subscriber Line provides a high bandwidth, always on, connection to the internet. 
+     It requires a special high-speed modem that separates the DSL signal from the telephone signal and provides an Ethernet connection to a host computer or LAN.
