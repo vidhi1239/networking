@@ -63,7 +63,7 @@ PEER-TO-PEER NETWORK :- usually client and server runs on different computers bu
          - Easy to set up
          - Less complex
          - Lower cost because network devices and dedicated servers may not be required
-         - Can be used for simple tasks such as transferring files and sharing printers
+         - Can be used for simple tasks such as transferring files and sharing prithnters
 
     Disadvantages of peer-to-peer networking:-
            - No centralized administration
@@ -74,15 +74,39 @@ PEER-TO-PEER NETWORK :- usually client and server runs on different computers bu
     -Hybrid P2P systems use a central server ONLY to store an index of resources.
     -Peers search the server for who has the file, but the file transfer itself happens directly between peers.
 
-NETWORK INFRASTRUCTURE
+NETWORK INFRASTRUCTUR
      Endpoint device :-A device used by the user and where data starts or ends.
      Intermediate device :-A device that sits in between endpoints and moves data from one place to another.ex:-router,hub,switch etc.
      Network media:-The physical or wireless path through which data travels.ex:-bluetooth,cellular etc.
 
 ISP
- network that participate directly in network communication are classified as hosts. hosts can send and receive msg on the network.
->cable and dsl this both are most common method of network connection
-cable:-mostly provided by televison service provider internet signels are provide on same coaixel cable internet runs from this cables separates internet digital signal
-      from other signal carried on cable and provides connectivity throgh ethernet wires. 
-DSL:-Digital Subscriber Line provides a high bandwidth, always on, connection to the internet. 
-     It requires a special high-speed modem that separates the DSL signal from the telephone signal and provides an Ethernet connection to a host computer or LAN.
+    network that participate directly in network communication are classified as hosts. hosts can send and receive msg on the network.
+    cable and dsl this both are most common method of network connection
+ cable:-mostly provided by televison service provider internet signels are provide on same coaixel cable internet runs from this cables separates internet 
+        digital signal from other signal carried on cable and provides connectivity throgh ethernet wires. 
+ DSL:- Digital Subscriber Line provides a high bandwidth, always on, connection to the internet. 
+     -It requires a special high-speed modem that separates the DSL signal from the telephone signal and provides an Ethernet connection to a host computer or LAN.
+    - DSL is providerd from telephone  cable line devided into three channel 1st channel is for phone call which allow user to use internet without disconnecting
+      on call 2nd is faster download channel used  for responding,3rd channel is used for uploading and this channel is slightly slower than the download channel.
+    -the speed and quality of internet speed depends on the telephone line and the distence from centeral office of your phone company the farther you are from 
+     central office the slower the speed.
+
+  Other connectivity services are:-cellular,satelite,dial-up telephone.
+  Bluetooth:-is a low-power, shorter range wireless technology that is intended to replace wired connectivity,it can transmit both data and voice.
+
+  Tethering:- is the process of sharing your smartphone's cellular data connection with other devices, such as a laptop or tablet, to give them internet access,
+             It effectively turns your phone into a mobile hotspot or modem, allowing you to connect to the internet via Wi-Fi, Bluetooth, or a USB cable when a 
+             traditional Wi-Fi network isn't available. 
+
+     -small business and home router has mainly 2 types of ports :- Ethernet(LAN PORTS)  and internet(WAN ports) 
+       so many wired Technologies but these 3 types are most common cable connectivity methods:-
+                     1)catagory 5c cable 
+                     2)coxial cable
+                     3)fiber-opticable cable
+     -in addition to wired ports wireless connectivity include antenna and build-in access point.
+     -The wireless technologies most frequently used in home networks are in the unlicensed 2.4 GHz and 5 GHz frequency ranges.
+
+
+  
+
+
