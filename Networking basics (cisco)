@@ -31,6 +31,7 @@ in given amount of time,typically measured in numbers of bits flows in .
 seconds common measurement:- thousands of bits per sec(kbps)
                              millions of bits per sec(mbps)
                              billions of bits per sec(gbps)
+                   Higher bandwidth = more speed but less range.
 
 Throughput Like bandwidth, throughput is the measure of the transfer of bits across the media over a given period of time.
    factors that effect throughput include:-
