@@ -112,7 +112,7 @@ ISP
  ex:- 802.1 -->Layer 2-->network management(VLAs etc)
       802.2 -->layer2--> logical link control(LLC)
       802.16 -->Layer1/2-->wiMAX (wireless,broadband)
-       Inside 802.11, there are versions (b, g, n, ac, ax, etc.).
+       Inside 802.11, there are versions (b, g, n, ac, ax, etc.)( not just this every technology in internet has its own versions.) 
 
 
 
