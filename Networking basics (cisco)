@@ -97,9 +97,6 @@ ISP
   Tethering:- is the process of sharing your smartphone's cellular data connection with other devices, such as a laptop or tablet, to give them internet access,
              It effectively turns your phone into a mobile hotspot or modem, allowing you to connect to the internet via Wi-Fi, Bluetooth, or a USB cable when a 
              traditional Wi-Fi network isn't available.
-             
-
-  
 
      -small business and home router has mainly 2 types of ports :- Ethernet(LAN PORTS)  and internet(WAN ports) 
        so many wired Technologies but these 3 types are most common cable connectivity methods:-
@@ -109,6 +106,15 @@ ISP
      -in addition to wired ports wireless connectivity include antenna and build-in access point.
      -The wireless technologies most frequently used in home networks are in the unlicensed 2.4 GHz and 5 GHz frequency ranges.
      -Wi-Fi radio waves are just microwave-frequency electromagnetic waves.
+
+ IEEE stands for institute of electrical & electronics engineers formed in fabruary 1980.(IEEE 802 stands for 1980 and feb(2) ) its official standerd for 
+  family of network standerds.
+ ex:- 802.1 -->Layer 2-->network management(VLAs etc)
+      802.2 -->layer2--> logical link control(LLC)
+      802.16 -->Layer1/2-->wiMAX (wireless,broadband)
+       Inside 802.11, there are versions (b, g, n, ac, ax, etc.).
+
+
 
 
   
