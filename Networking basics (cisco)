@@ -96,15 +96,19 @@ ISP
 
   Tethering:- is the process of sharing your smartphone's cellular data connection with other devices, such as a laptop or tablet, to give them internet access,
              It effectively turns your phone into a mobile hotspot or modem, allowing you to connect to the internet via Wi-Fi, Bluetooth, or a USB cable when a 
-             traditional Wi-Fi network isn't available. 
+             traditional Wi-Fi network isn't available.
+             
+
+  
 
      -small business and home router has mainly 2 types of ports :- Ethernet(LAN PORTS)  and internet(WAN ports) 
        so many wired Technologies but these 3 types are most common cable connectivity methods:-
-                     1)catagory 5c cable 
-                     2)coxial cable
-                     3)fiber-opticable cable
+                     1)A) Twisted Pair (Ethernet cable) (Cat5/5e/6/7/8 , RJ45 connector)(used in LANs)
+                     2)coxial cable (used for tv,cable connection,cctv)
+                     3)fiber-opticable cable(high speed,long distence)
      -in addition to wired ports wireless connectivity include antenna and build-in access point.
      -The wireless technologies most frequently used in home networks are in the unlicensed 2.4 GHz and 5 GHz frequency ranges.
+     -Wi-Fi radio waves are just microwave-frequency electromagnetic waves.
 
 
   
